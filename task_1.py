@@ -5,7 +5,7 @@ def longest_word():
         if len(word) > len(longest):
             longest = word
 
-    return longest
+    return longest.strip()
 
 
-print(longest_word())
+print(len(longest_word()))

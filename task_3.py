@@ -1,4 +1,3 @@
-# Remove this comment to confirm that this task is done
 from turtle import *
 
 offset = -200, -300
